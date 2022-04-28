@@ -10,6 +10,4 @@ function abszolut(){
     } else {
         document.getElementById('eredmeny').innerHTML = szam;
     }
-
-    
 }
