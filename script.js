@@ -8,6 +8,6 @@ function abszolut(){
     if (szam >= 0){
         document.getElementById('eredmeny').innerHTML = szam;
     } else {
-        document.getElementById('eredmeny').innerHTML = szam;
+        document.getElementById('eredmeny').innerHTML = -szam;
     }
 }
