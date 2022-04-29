@@ -22,3 +22,21 @@
 Javascript Debug:
 - Browser F12
 - Fejlesztőkörnyezetben (Visual Studio Code)
+
+Számitógép név (Host name)
+- IP cím
+
+localhost = 127. 
+
+HF: 
+prímszám vizsgálata
+
+Fogalmak:
+- algoritmus fogalma
+- algoritmus elemek
+    - szekvencia
+    - szelekció
+    - iteráció
+- folyamatábra
+
+draw.io
